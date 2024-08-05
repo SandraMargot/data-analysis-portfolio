@@ -8,7 +8,7 @@ Bonjour ! Je m'appelle Sandra MARGOT, et je suis une data analyst passionnée, c
 - **Visualisation de données** : Création de tableaux de bord interactifs et de rapports avec Power BI.
 - **Microsoft Fabric** : Utilisation de Microsoft Fabric pour l'intégration et la gestion des données.
 - **Langages de programmation** : Python, SQL, DAX.
-- **Outils** : Excel, Power BI, Microsoft Fabric, Tableau.
+- **Outils** : Excel, Power BI, Microsoft Fabric
 
 ## Projets
 
