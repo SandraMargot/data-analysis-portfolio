@@ -1,7 +1,7 @@
 # Portfolio de Data Analyst
 
 ## À propos de moi
-Bonjour ! Je m'appelle [Votre Nom], et je suis un data analyst passionné avec une certification en Power BI et Microsoft Fabric. J'ai une solide expérience en analyse de données, visualisation et storytelling avec les données. Mon objectif est de transformer des données brutes en insights exploitables pour aider les entreprises à prendre des décisions éclairées.
+Bonjour ! Je m'appelle Sandra MARGOT, et je suis une data analyst passionnée, certifiée Power BI et Microsoft Fabric. J'ai une solide expérience en analyse de données, visualisation et montage de dashboards. Mon objectif est de transformer des données brutes en insights exploitables pour aider les entreprises à prendre des décisions éclairées.
 
 ## Compétences
 - **Analyse de données** : Nettoyage, transformation et analyse de grands ensembles de données.
@@ -46,8 +46,8 @@ Bonjour ! Je m'appelle [Votre Nom], et je suis un data analyst passionné avec u
 - **Visuals** : !Tableau de bord de satisfaction client
 
 ## Contact
-- **Email** : votre.email@example.com
-- **LinkedIn** : Votre Profil LinkedIn
-- **GitHub** : Votre Profil GitHub
+- **Email** : smargot@hotmail.com
+- **LinkedIn** : https://www.linkedin.com/in/power-bi-sandra-margot/
+- **GitHub** : https://github.com/sandZen
 
 Merci de visiter mon portfolio ! N'hésitez pas à me contacter pour toute question ou opportunité de collaboration.
