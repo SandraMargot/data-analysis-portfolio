@@ -48,6 +48,6 @@ Bonjour ! Je m'appelle Sandra MARGOT, et je suis une data analyst passionnée, c
 ## Contact
 - **Email** : smargot@hotmail.com
 - **LinkedIn** : https://www.linkedin.com/in/power-bi-sandra-margot/
-- **GitHub** : https://github.com/sandZen
+- **GitHub** : https://github.com/SandraMargot
 
 Merci de visiter mon portfolio ! N'hésitez pas à me contacter pour toute question ou opportunité de collaboration.
